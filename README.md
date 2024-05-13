@@ -43,7 +43,7 @@ stakeholders.
 
 - Customer Feedback Analysis: Implemented an NLP model to analyze customer reviews from Amazon and eBay, resulting in actionable insights that improved product offerings.
 
-- Sales Prediction Tool: Developed a predictive model in Excel for insurance policy sales, enhancing the accuracy of sales forecasts by 15%.
+- Accident Data Analysis: Analyzed UK road accident data to improve road safety by identifying patterns and trends in accidents.
 
 🏆 Achievements
 
